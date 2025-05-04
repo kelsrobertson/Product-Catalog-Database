@@ -43,7 +43,7 @@ CREATE TABLE ProductCategories (
 );
 
 INSERT INTO Users(name) VALUES 
-('Jayson Barclay'), ('Shawn Carnahan'), ('Josh Brewington');
+('John Smith'), ('Jack Black'), ('Donald Duck');
 
 INSERT INTO Orders(user_id, order_date) VALUES
 (1, '2024-04-23'), (2, '2024-08-01'), (3,'2024-09-30');
